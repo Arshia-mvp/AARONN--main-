@@ -1,0 +1,57 @@
+body{
+    background-color: #1A1A1A;
+}
+.input{
+    width: 300px;
+    transition:2s;
+    border:2px solid #000;
+    padding:6px;
+    background-color: #000;
+    height: 35px;
+    position: absolute;
+    margin-left: 751px;
+    margin-top: 22px;
+    color: #fff;
+}
+.input:focus{
+    background-color:#2196F3;
+    color:#fff;
+    border:2px solid #fff;
+    width: 42.2%;
+}
+.input-1{
+    width: 300px;
+    transition:2s;
+    border:2px solid #000;
+    padding:6px;
+    background-color: #000;
+    height: 35px;
+    position: absolute;
+    margin-left: 754px;
+    margin-top: 22px;
+    color: #fff;
+}
+.input-1:focus{
+    background-color:#2196F3;
+    color:#fff;
+    border:2px solid #fff;
+    width: 42%;
+}
+.input-2{
+    width: 300px;
+    transition:2s;
+    border:2px solid #000;
+    padding:6px;
+    background-color: #000;
+    height: 35px;
+    position: absolute;
+    margin-left: 754px;
+    margin-top: 22px;
+    color: #fff;
+}
+.input-2:focus{
+    background-color:#2196F3;
+    color:#fff;
+    border:2px solid #fff;
+    width: 42%;
+}
